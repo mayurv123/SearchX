@@ -10,3 +10,4 @@ python-telegram-bot
 requests
 telegraph
 tenacity
+yt-dlp
